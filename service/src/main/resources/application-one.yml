@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+service:
+  instance:
+    name: service 1

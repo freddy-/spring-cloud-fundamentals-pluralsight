@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: service
+
+eureka:
+  cliente:
+    service-url:
+      defaultZone: htp://localhost:8761/eureka

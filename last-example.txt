@@ -1,0 +1,7 @@
+discovery-server
+weather-service
+time-service
+weather-app
+time-app
+turbine
+hystrix-dashboard
